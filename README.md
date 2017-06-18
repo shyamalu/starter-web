@@ -13,3 +13,6 @@ A Sample website with plenty of files for demos
 ##Deployment stage 2
 
 ##Deployment in locachanges 3
+
+##ADDED COPYRIGHT
+ -- NOTICD
