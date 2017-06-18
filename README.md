@@ -1,6 +1,7 @@
 # Starter Web Repo
 
 This repository is for showing how Git and GitHub work
+This line for rebase
 
 ## Purpose
 
@@ -19,3 +20,5 @@ A Sample website with plenty of files for demos
 
 
 ##ADDING TEAM MATE
+
+##ADDED THANKS SECTION 
