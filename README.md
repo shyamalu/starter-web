@@ -2,6 +2,7 @@
 
 This repository is for showing how Git and GitHub work
 This line for rebase
+Expanding more changes
 
 ## Purpose
 
