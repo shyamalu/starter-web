@@ -4,12 +4,13 @@
 # TEAM
 
     <name> -- <role> -- <twitter>
-    Shyamal Upadyaya - Manager
+    Shyamal Upadyaya - Manager for developers
 
 # THANKS
 
     <name>
     LEARN ANGULAR4
+    Thanks for New Wave
 
 # TECHNOLOGY COLOPHON
 
