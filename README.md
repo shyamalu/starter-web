@@ -22,3 +22,5 @@ A Sample website with plenty of files for demos
 ##ADDING TEAM MATE
 
 ##ADDED THANKS SECTION 
+
+##ADDED INFO
