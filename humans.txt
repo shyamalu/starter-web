@@ -5,6 +5,7 @@
 
     <name> -- <role> -- <twitter>
     Shyamal Upadyaya - Manager for developers
+    Srikant T - CEO
 
 # THANKS
 
