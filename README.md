@@ -25,3 +25,6 @@ A Sample website with plenty of files for demos
 ##ADDED THANKS SECTION 
 
 ##ADDED INFO - HUMAN SECTION
+
+
+ALL RIGHTS RESERVERD
